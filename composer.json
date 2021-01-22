@@ -1,0 +1,41 @@
+{
+    "name": "billymedia/date-period",
+    "description": "Twig extension for PHP Date Period",
+    "type": "craft-plugin",
+    "version": "1",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "date period"
+    ],
+    "support": {
+        "docs": "https://github.com/billymedia/date-period/blob/master/README.md",
+        "issues": "https://github.com/billymedia/date-period/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Billy Patel",
+            "homepage": "https://billymedia.co.uk"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "billymedia\\dateperiod\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Date Period",
+        "handle": "date-period",
+        "developer": "Billy Patel",
+        "developerUrl": "https://billymedia.co.uk",
+        "documentationUrl": "https://github.com/billymedia/date-period/blob/master/README.md",
+        "changelogUrl": "https://raw.githubusercontent.com/billymedia/date-period/master/CHANGELOG.md",
+        "class": "billymedia\\dateperiod\\DatePeriod"
+    }
+}
