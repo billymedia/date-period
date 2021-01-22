@@ -22,22 +22,5 @@ To install the plugin, follow these instructions.
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Date Period.
 
-## Date Period Overview
-
--Insert text here-
-
-## Configuring Date Period
-
--Insert text here-
-
-## Using Date Period
-
--Insert text here-
-
-## Date Period Roadmap
-
-Some things to do, and ideas for potential features:
-
-* Release it
 
 Brought to you by [Billy Patel](https://billymedia.co.uk)
